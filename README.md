@@ -12,8 +12,8 @@ Welcome to the official repository of **my very first course on Prompt Engineeri
 
 ## 🔗 Live Product Link
 
-👉 [Click Here to View the Course Page](https://your-course-link.com)  
-(*Replace this with your actual hosted link*)
+👉 [Click Here to View the Course Page](https://innovativesumit.github.io/PROMPT-ENGINEERING/)  
+
 
 ## 🧠 About the Course
 
